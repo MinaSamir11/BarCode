@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarCode", "BarCode\BarCode.csproj", "{7483A6F9-457D-4B1F-947C-D7E9943E148F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Genrate Serials", "Genrate Serials\Genrate Serials.vdproj", "{EF53F33F-7E62-4FBC-A161-4682E78E392A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7483A6F9-457D-4B1F-947C-D7E9943E148F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7483A6F9-457D-4B1F-947C-D7E9943E148F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7483A6F9-457D-4B1F-947C-D7E9943E148F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7483A6F9-457D-4B1F-947C-D7E9943E148F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF53F33F-7E62-4FBC-A161-4682E78E392A}.Debug|Any CPU.ActiveCfg = Debug
+		{EF53F33F-7E62-4FBC-A161-4682E78E392A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA71D19-8E4A-4349-9FE5-861073DDC725}
+	EndGlobalSection
+EndGlobal

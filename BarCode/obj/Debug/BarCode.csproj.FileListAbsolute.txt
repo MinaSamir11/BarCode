@@ -1,0 +1,10 @@
+C:\Users\menas\source\repos\BarCode\BarCode\bin\Debug\BarCode.exe.config
+C:\Users\menas\source\repos\BarCode\BarCode\bin\Debug\BarCode.exe
+C:\Users\menas\source\repos\BarCode\BarCode\bin\Debug\BarCode.pdb
+C:\Users\menas\source\repos\BarCode\BarCode\obj\Debug\BarCode.BarCodeSerials.resources
+C:\Users\menas\source\repos\BarCode\BarCode\obj\Debug\BarCode.Properties.Resources.resources
+C:\Users\menas\source\repos\BarCode\BarCode\obj\Debug\BarCode.csproj.GenerateResource.cache
+C:\Users\menas\source\repos\BarCode\BarCode\obj\Debug\BarCode.csproj.CoreCompileInputs.cache
+C:\Users\menas\source\repos\BarCode\BarCode\obj\Debug\BarCode.exe
+C:\Users\menas\source\repos\BarCode\BarCode\obj\Debug\BarCode.pdb
+C:\Users\menas\source\repos\BarCode\BarCode\obj\Debug\BarCode.csprojAssemblyReference.cache
